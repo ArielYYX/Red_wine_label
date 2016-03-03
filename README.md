@@ -4,49 +4,68 @@
 基于Opencv库实现红酒酒标的识别
 ===================================  
 ### 酒标图片  （酒标图片库>100000张）
-![github]( "github") 
+不一一列举
 
-![github]( "github") 
-
-![github]( "github") 
-
-![github]( "github") 
-
-![github]( "github") 
 
 ### 酒标边缘Mask图片
-
 ![github](https://github.com/df865017/Red_wine_label/blob/master/pic/wine_label/mask/image004.jpg "github") 
-
 ![github](https://github.com/df865017/Red_wine_label/blob/master/pic/wine_label/mask/image013.jpg "github") 
-
 ![github](https://github.com/df865017/Red_wine_label/blob/master/pic/wine_label/mask/image021.jpg "github") 
-
 ![github](https://github.com/df865017/Red_wine_label/blob/master/pic/wine_label/mask/image021.jpg "github") 
-
 ![github](https://github.com/df865017/Red_wine_label/blob/master/pic/wine_label/mask/image029.jpg "github") 
 
 ### 结果排名前5图片
 ![github](https://github.com/df865017/Red_wine_label/blob/master/pic/wine_label/result/image013.jpgimage007.jpg "github") 
-
 ![github](https://github.com/df865017/Red_wine_label/blob/master/pic/wine_label/result/image013.jpgimage009.jpg "github") 
-
 ![github](https://github.com/df865017/Red_wine_label/blob/master/pic/wine_label/result/image013.jpgimage013.jpg "github") 
-
 ![github](https://github.com/df865017/Red_wine_label/blob/master/pic/wine_label/result/image013.jpgimage015.jpg "github") 
-
 ![github](https://github.com/df865017/Red_wine_label/blob/master/pic/wine_label/result/image013.jpgimage019.jpg "github") 
+
 
 Qt C++编写的Ransac特征匹配对提纯
 ===================================  
+### 处理前
+![github](https://github.com/df865017/Red_wine_label/blob/master/pic/qt_ransac/src/mountain1.JPG "github") 
+![github](https://github.com/df865017/Red_wine_label/blob/master/pic/qt_ransac/src/mountain2.JPG "github") 
+![github]( https://github.com/df865017/Red_wine_label/blob/master/pic/qt_ransac/src/square1.png"github") 
+![github](https://github.com/df865017/Red_wine_label/blob/master/pic/qt_ransac/src/square2.png "github") 
+
+### 粗匹配结果
+![github](https://github.com/df865017/Red_wine_label/blob/master/pic/qt_ransac/dst/sceneryRough.jpg "github") 
+
+### 提纯后
+![github](https://github.com/df865017/Red_wine_label/blob/master/pic/qt_ransac/dst/sceneryMatch.jpg "github") 
+
+
+### 匹配不相关图片
+![github](https://github.com/df865017/Red_wine_label/blob/master/pic/qt_ransac/dst/scenerySquare.jpg "github") 
+
 
 Qt C++编写的Sift特征匹配
-===================================  
+===================================
+### 处理前
+![github](https://github.com/df865017/Red_wine_label/blob/master/pic/qt_sift/name1.jpg "github") 
+![github](https://github.com/df865017/Red_wine_label/blob/master/pic/qt_sift/name2.jpg "github") 
+
+### 处理后
+![github](https://github.com/df865017/Red_wine_label/blob/master/pic/qt_sift/Matches.jpg "github") 
 
 
 Qt C++编写的提取汽车黑白模板
-===================================  
+=================================== 
+### 源图片
+![github](https://github.com/df865017/Red_wine_label/blob/master/pic/car_mask/src/11.jpg "github") 
+![github](https://github.com/df865017/Red_wine_label/blob/master/pic/car_mask/src/12.jpg "github") 
+![github](https://github.com/df865017/Red_wine_label/blob/master/pic/car_mask/src/13.jpg "github") 
+![github](https://github.com/df865017/Red_wine_label/blob/master/pic/car_mask/src/14.jpg "github") 
+![github](https://github.com/df865017/Red_wine_label/blob/master/pic/car_mask/src/15.jpg "github") 
 
+### 结果图片
+![github](https://github.com/df865017/Red_wine_label/blob/master/pic/car_mask/result/11.jpg "github") 
+![github](https://github.com/df865017/Red_wine_label/blob/master/pic/car_mask/result/12.jpg "github") 
+![github](https://github.com/df865017/Red_wine_label/blob/master/pic/car_mask/result/13.jpg "github") 
+![github](https://github.com/df865017/Red_wine_label/blob/master/pic/car_mask/result/14.jpg "github") 
+![github](https://github.com/df865017/Red_wine_label/blob/master/pic/car_mask/result/15.jpg "github") 
 
 
 综述：
