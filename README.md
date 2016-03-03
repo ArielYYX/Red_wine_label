@@ -8,17 +8,17 @@
 
 
 ### 酒标边缘Mask图片
-![github](https://github.com/df865017/Red_wine_label/blob/master/pic/wine_label/mask/image004.jpg "github") 
-![github](https://github.com/df865017/Red_wine_label/blob/master/pic/wine_label/mask/image013.jpg "github") 
-![github](https://github.com/df865017/Red_wine_label/blob/master/pic/wine_label/mask/image021.jpg "github") 
-![github](https://github.com/df865017/Red_wine_label/blob/master/pic/wine_label/mask/image021.jpg "github") 
+![github](https://github.com/df865017/Red_wine_label/blob/master/pic/wine_label/mask/image004.jpg "github") </br>
+![github](https://github.com/df865017/Red_wine_label/blob/master/pic/wine_label/mask/image013.jpg "github") </br>
+![github](https://github.com/df865017/Red_wine_label/blob/master/pic/wine_label/mask/image021.jpg "github") </br>
+![github](https://github.com/df865017/Red_wine_label/blob/master/pic/wine_label/mask/image021.jpg "github") </br>
 ![github](https://github.com/df865017/Red_wine_label/blob/master/pic/wine_label/mask/image029.jpg "github") 
 
 ### 结果排名前5图片
-![github](https://github.com/df865017/Red_wine_label/blob/master/pic/wine_label/result/image013.jpgimage007.jpg "github") 
-![github](https://github.com/df865017/Red_wine_label/blob/master/pic/wine_label/result/image013.jpgimage009.jpg "github") 
-![github](https://github.com/df865017/Red_wine_label/blob/master/pic/wine_label/result/image013.jpgimage013.jpg "github") 
-![github](https://github.com/df865017/Red_wine_label/blob/master/pic/wine_label/result/image013.jpgimage015.jpg "github") 
+![github](https://github.com/df865017/Red_wine_label/blob/master/pic/wine_label/result/image013.jpgimage007.jpg "github") </br>
+![github](https://github.com/df865017/Red_wine_label/blob/master/pic/wine_label/result/image013.jpgimage009.jpg "github") </br>
+![github](https://github.com/df865017/Red_wine_label/blob/master/pic/wine_label/result/image013.jpgimage013.jpg "github") </br>
+![github](https://github.com/df865017/Red_wine_label/blob/master/pic/wine_label/result/image013.jpgimage015.jpg "github") </br>
 ![github](https://github.com/df865017/Red_wine_label/blob/master/pic/wine_label/result/image013.jpgimage019.jpg "github") 
 
 
@@ -27,8 +27,8 @@ Qt C++编写的Ransac特征匹配对提纯
 ### 处理前
 ![github](https://github.com/df865017/Red_wine_label/blob/master/pic/qt_ransac/src/mountain1.JPG "github") 
 ![github](https://github.com/df865017/Red_wine_label/blob/master/pic/qt_ransac/src/mountain2.JPG "github") 
-![github]( https://github.com/df865017/Red_wine_label/blob/master/pic/qt_ransac/src/square1.png"github") 
-![github](https://github.com/df865017/Red_wine_label/blob/master/pic/qt_ransac/src/square2.png "github") 
+![github]( https://github.com/df865017/Red_wine_label/blob/master/pic/qt_ransac/src/square1.png" github") 
+![github](https://github.com/df865017/Red_wine_label/blob/master/pic/qt_ransac/src/square2.png" github") 
 
 ### 粗匹配结果
 ![github](https://github.com/df865017/Red_wine_label/blob/master/pic/qt_ransac/dst/sceneryRough.jpg "github") 
