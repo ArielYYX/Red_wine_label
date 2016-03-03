@@ -16,15 +16,15 @@
 
 ### 酒标边缘Mask图片
 
-![github](https://github.com/df865017/Red_wine_label/blob/master/pic/mask/result/11.jpg "github") 
+![github](https://github.com/df865017/Red_wine_label/blob/master/pic/wine_label/mask/image004.jpg "github") 
 
-![github](https://github.com/df865017/Red_wine_label/blob/master/pic/mask/result/12.jpg "github") 
+![github](https://github.com/df865017/Red_wine_label/blob/master/pic/wine_label/mask/image013.jpg "github") 
 
-![github](https://github.com/df865017/Red_wine_label/blob/master/pic/mask/result/13.jpg "github") 
+![github](https://github.com/df865017/Red_wine_label/blob/master/pic/wine_label/mask/image021.jpg "github") 
 
-![github](https://github.com/df865017/Red_wine_label/blob/master/pic/mask/result/14.jpg "github") 
+![github](https://github.com/df865017/Red_wine_label/blob/master/pic/wine_label/mask/image021.jpg "github") 
 
-![github](https://github.com/df865017/Red_wine_label/blob/master/pic/mask/result/15.jpg "github") 
+![github](https://github.com/df865017/Red_wine_label/blob/master/pic/wine_label/mask/image029.jpg "github") 
 
 ### 结果排名前5图片
 ![github](https://github.com/df865017/Red_wine_label/blob/master/pic/wine_label/result/image013.jpgimage007.jpg "github") 
